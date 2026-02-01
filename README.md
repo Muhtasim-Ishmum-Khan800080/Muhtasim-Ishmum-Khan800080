@@ -49,13 +49,13 @@ Credits and references used in this README:
      <td align="center" width="33%">
       <a href="">
         <img src=""
-             alt="CI/CD Pipeline Project"
+             alt=""
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b></b><br/>
       <sub></sub><br/>
-      🔗 <a>Repo</a>
+      🔗 <a href="">Repo</a>
       <br/>
     </td>
     <td align="center" width="33%">
@@ -79,7 +79,7 @@ Credits and references used in this README:
       <br/>
       <b></b><br/>
       <sub></sub><br/>
-      🔗 <a>Repo</a>
+      🔗 <a href="">Repo</a>
       <br/>
     </td>
   </tr>
