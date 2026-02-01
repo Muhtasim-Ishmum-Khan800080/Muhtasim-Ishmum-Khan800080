@@ -47,40 +47,39 @@ Credits and references used in this README:
 <table>
   <tr>
      <td align="center" width="33%">
-      <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">
-        <img src="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/blob/main/intro.png"
+      <a href="">
+        <img src=""
              alt="CI/CD Pipeline Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>HSI denoising web interface</b><br/>
-      <sub>Deployed the custom hyperspectral image denoising model via a web application, displaying the distorted image beside the cleaned image.</sub><br/>
-      🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising_interface/tree/main">Repo</a>
+      <b></b><br/>
+      <sub></sub><br/>
+      🔗 <a>Repo</a>
       <br/>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">
-        <img src="FIG1_arch.png"
-             alt="HSI Denoising Project"
+      <a href="">
+        <img src=""
+             alt=""
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>HSI Denoising Project</b><br/>
-      <sub>Developed a fully automated model that uses deep learning and transformers to clean hyperspectral images having multiple types
-         of distortions and makes the images reusable.</sub><br/>
-      🔗 <a href="https://github.com/muhtasim-ishmum-khan/HSI_denoising">Repo</a>
+      <b></b><br/>
+      <sub></sub><br/>
+      🔗 <a href="">Repo</a>
       <br/>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">
-        <img src="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465/blob/main/intro_p3.PNG"
-             alt="Deep Learning Project on MRI-dataset"
+      <a href="">
+        <img src=""
+             alt=""
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Deep Learning Project on MRI-dataset</b><br/>
-      <sub>Developed a custom CNN model which is lighter and performs on par with other pretrained models at classifying brain tumours from MRI scan images.</sub><br/>
-      🔗 <a href="https://github.com/muhtasim-ishmum-khan/DL_project_CSE465">Repo</a>
+      <b></b><br/>
+      <sub></sub><br/>
+      🔗 <a>Repo</a>
       <br/>
     </td>
   </tr>
