@@ -37,7 +37,7 @@ Credits and references used in this README:
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)
 
-**Also comfortable with**: React, Flutter, MATLAB and basic machine learning workflows.
+**Also comfortable with**: React, Flutter, MATLAB and machine learning workflows.
 
 
 ---
