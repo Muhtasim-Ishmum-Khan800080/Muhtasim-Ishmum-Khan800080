@@ -47,7 +47,7 @@ Credits and references used in this README:
 <table>
   <tr>
      <td align="center" width="33%">
-      <a href="https://avatars.githubusercontent.com/u/221787870?s=200&v=4">
+      <a href="https://github.com/LexData-Labs/Observer_ai_v1">
         <img src="https://avatars.githubusercontent.com/u/221787870?s=200&v=4"
              alt=""
              style="width:100%; height:200px; object-fit:cover;"/>
@@ -59,7 +59,7 @@ Credits and references used in this README:
       <br/>
     </td>
     <td align="center" width="33%">
-      <a href="https://avatars.githubusercontent.com/u/244920484?s=200&v=4">
+      <a href="https://github.com/LexData-Labs-Engineers-Team/multi-model-annotator">
         <img src="https://avatars.githubusercontent.com/u/244920484?s=200&v=4"
              alt=""
              style="width:100%; height:200px; object-fit:cover;"/>
