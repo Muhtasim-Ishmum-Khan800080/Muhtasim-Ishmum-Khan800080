@@ -47,27 +47,27 @@ Credits and references used in this README:
 <table>
   <tr>
      <td align="center" width="33%">
-      <a href="">
-        <img src=""
+      <a href="https://avatars.githubusercontent.com/u/221787870?s=200&v=4">
+        <img src="https://avatars.githubusercontent.com/u/221787870?s=200&v=4"
              alt=""
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b></b><br/>
       <sub></sub><br/>
-      🔗 <a href="https://github.com/Muhtasim-Ishmum-Khan800080/auto-annotator">Repo</a>
+      🔗 <a href="https://github.com/LexData-Labs/Observer_ai_v10">LexAnnotate</a>
       <br/>
     </td>
     <td align="center" width="33%">
-      <a href="">
-        <img src=""
+      <a href="https://avatars.githubusercontent.com/u/244920484?s=200&v=4">
+        <img src="https://avatars.githubusercontent.com/u/244920484?s=200&v=4"
              alt=""
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b></b><br/>
       <sub></sub><br/>
-      🔗 <a href="">Repo</a>
+      🔗 <a href="https://github.com/LexData-Labs-Engineers-Team/multi-model-annotator">Multi-model Annotator</a>
       <br/>
     </td>
     <td align="center" width="33%">
