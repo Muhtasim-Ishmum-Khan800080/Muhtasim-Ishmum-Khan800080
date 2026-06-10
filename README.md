@@ -47,7 +47,7 @@ Credits and references used in this README:
 <table>
   <tr>
      <td align="center" width="33%">
-      <a href="https://github.com/LexData-Labs/Observer_ai_v1">
+      <a href="https://github.com/LexData-Labs/Observer_ai_v10">
         <img src="https://avatars.githubusercontent.com/u/221787870?s=200&v=4"
              alt=""
              style="width:100%; height:200px; object-fit:cover;"/>
