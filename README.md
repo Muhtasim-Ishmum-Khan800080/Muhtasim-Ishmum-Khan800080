@@ -46,11 +46,11 @@ Credits and references used in this README:
 
 <table>
   <tr>
-     <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/LexData-Labs/Observer_ai_v10">
         <img src="https://avatars.githubusercontent.com/u/221787870?s=200&v=4"
-             alt=""
-             style="width:100%; height:200px; object-fit:cover;"/>
+             alt="LexAnnotate"
+             style="width:100%; height:220px; object-fit:contain;"/>
       </a>
       <br/>
       <b></b><br/>
@@ -58,11 +58,11 @@ Credits and references used in this README:
       🔗 <a href="https://github.com/LexData-Labs/Observer_ai_v10">LexAnnotate</a>
       <br/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/LexData-Labs-Engineers-Team/multi-model-annotator">
         <img src="https://avatars.githubusercontent.com/u/244920484?s=200&v=4"
-             alt=""
-             style="width:100%; height:200px; object-fit:cover;"/>
+             alt="Multi-model Annotator"
+             style="width:100%; height:220px; object-fit:contain;"/>
       </a>
       <br/>
       <b></b><br/>
@@ -70,20 +70,9 @@ Credits and references used in this README:
       🔗 <a href="https://github.com/LexData-Labs-Engineers-Team/multi-model-annotator">Multi-model Annotator</a>
       <br/>
     </td>
-    <td align="center" width="33%">
-      <a href="">
-        <img src=""
-             alt=""
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b></b><br/>
-      <sub></sub><br/>
-      🔗 <a href="">Repo</a>
-      <br/>
-    </td>
   </tr>
 </table>
+
 
 ---
 
